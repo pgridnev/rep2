@@ -1,0 +1,6 @@
+<config>
+  <package>a</package>
+  <repo>/tmp/repo</repo>
+  <test_mode>false</test_mode>
+  <max_depth>three</max_depth>
+</config>

@@ -1,0 +1,5 @@
+<config>
+  <repo>/tmp/repo</repo>
+  <test_mode>false</test_mode>
+  <max_depth>1</max_depth>
+</config>

@@ -1,0 +1,6 @@
+<config>
+  <package>express</package>
+  <repo>https://registry.npmjs.org/</repo>
+  <test_mode>false</test_mode>
+  <max_depth>3</max_depth>
+</config>
