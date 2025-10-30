@@ -147,11 +147,6 @@ def stage2(cfg):
     else:
         for name, ver in deps.items():
             print(f"  {name}: {ver}")
-    try:
-        fname = save_direct_deps_to_file(cfg['package'], cfg, deps)
-        print(f"Saved direct dependencies to: {fname}")
-    except Exception as e:
-        print("error: failed to save direct dependencies:", e)
     print("\ndependency tree (limited by max_depth):")
     visited = set()
     visited.add(cfg['package'])
