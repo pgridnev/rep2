@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2920" height="600">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#444"/></marker></defs>
+<rect x="1380.0" y="20.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1460.0" y="38.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">eslint</text>
+<rect x="-20.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="60.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@eslint-community/eslint-utils</text>
+<rect x="60.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="140.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@eslint-community/regexpp</text>
+<rect x="140.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="220.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@eslint/eslintrc</text>
+<rect x="220.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="300.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@eslint/js</text>
+<rect x="300.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="380.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@humanwhocodes/config-array</text>
+<rect x="380.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="460.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@humanwhocodes/module-importer</text>
+<rect x="460.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="540.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@humanwhocodes/retry</text>
+<rect x="540.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="620.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@nodelib/fs.walk</text>
+<rect x="620.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="700.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">ajv</text>
+<rect x="700.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="780.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">chalk</text>
+<rect x="780.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="860.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">cross-spawn</text>
+<rect x="860.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="940.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">debug</text>
+<rect x="940.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1020.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">doctrine</text>
+<rect x="1020.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1100.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">escape-string-regexp</text>
+<rect x="1100.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1180.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">eslint-scope</text>
+<rect x="1180.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1260.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">eslint-visitor-keys</text>
+<rect x="1260.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1340.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">espree</text>
+<rect x="1340.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1420.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">esquery</text>
+<rect x="1420.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1500.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">esutils</text>
+<rect x="1500.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1580.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">fast-deep-equal</text>
+<rect x="1580.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1660.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">file-entry-cache</text>
+<rect x="1660.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1740.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">find-up</text>
+<rect x="1740.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1820.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">glob-parent</text>
+<rect x="1820.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1900.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">graphemer</text>
+<rect x="1900.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1980.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">ignore</text>
+<rect x="1980.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="2060.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">imurmurhash</text>
+<rect x="2060.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="2140.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">is-glob</text>
+<rect x="2140.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="2220.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">js-yaml</text>
+<rect x="2220.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="2300.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">json-stable-stringify-without-jsonify</text>
+<rect x="2300.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="2380.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">levn</text>
+<rect x="2380.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="2460.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">lodash.merge</text>
+<rect x="2460.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="2540.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">minimatch</text>
+<rect x="2540.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="2620.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">natural-compare</text>
+<rect x="2620.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="2700.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">optionator</text>
+<rect x="2700.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="2780.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">strip-ansi</text>
+<rect x="2780.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="2860.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">text-table</text>
+<path d="M 1460.0 56.0 L 60.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 140.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 220.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 300.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 380.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 460.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 540.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 620.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 700.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 780.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 860.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 940.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 1020.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 1100.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 1180.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 1260.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 1340.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 1420.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 1500.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 1580.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 1660.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 1740.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 1820.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 1900.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 1980.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 2060.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 2140.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 2220.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 2300.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 2380.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 2460.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 2540.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 2620.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 2700.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 2780.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1460.0 56.0 L 2860.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+</svg>

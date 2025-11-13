@@ -1,0 +1,79 @@
+graph "webpack" {
+  webpack.shape: box
+  webpack.label: "webpack"
+  webpack -> @types/eslint-scope
+  @types/eslint-scope.shape: box
+  @types/eslint-scope.label: "@types/eslint-scope"
+  webpack -> @types/estree
+  @types/estree.shape: box
+  @types/estree.label: "@types/estree"
+  webpack -> @types/json-schema
+  @types/json-schema.shape: box
+  @types/json-schema.label: "@types/json-schema"
+  webpack -> @webassemblyjs/ast
+  @webassemblyjs/ast.shape: box
+  @webassemblyjs/ast.label: "@webassemblyjs/ast"
+  webpack -> @webassemblyjs/wasm-edit
+  @webassemblyjs/wasm-edit.shape: box
+  @webassemblyjs/wasm-edit.label: "@webassemblyjs/wasm-edit"
+  webpack -> @webassemblyjs/wasm-parser
+  @webassemblyjs/wasm-parser.shape: box
+  @webassemblyjs/wasm-parser.label: "@webassemblyjs/wasm-parser"
+  webpack -> acorn
+  acorn.shape: box
+  acorn.label: "acorn"
+  webpack -> acorn-import-phases
+  acorn-import-phases.shape: box
+  acorn-import-phases.label: "acorn-import-phases"
+  webpack -> browserslist
+  browserslist.shape: box
+  browserslist.label: "browserslist"
+  webpack -> chrome-trace-event
+  chrome-trace-event.shape: box
+  chrome-trace-event.label: "chrome-trace-event"
+  webpack -> enhanced-resolve
+  enhanced-resolve.shape: box
+  enhanced-resolve.label: "enhanced-resolve"
+  webpack -> es-module-lexer
+  es-module-lexer.shape: box
+  es-module-lexer.label: "es-module-lexer"
+  webpack -> eslint-scope
+  eslint-scope.shape: box
+  eslint-scope.label: "eslint-scope"
+  webpack -> events
+  events.shape: box
+  events.label: "events"
+  webpack -> glob-to-regexp
+  glob-to-regexp.shape: box
+  glob-to-regexp.label: "glob-to-regexp"
+  webpack -> graceful-fs
+  graceful-fs.shape: box
+  graceful-fs.label: "graceful-fs"
+  webpack -> json-parse-even-better-errors
+  json-parse-even-better-errors.shape: box
+  json-parse-even-better-errors.label: "json-parse-even-better-errors"
+  webpack -> loader-runner
+  loader-runner.shape: box
+  loader-runner.label: "loader-runner"
+  webpack -> mime-types
+  mime-types.shape: box
+  mime-types.label: "mime-types"
+  webpack -> neo-async
+  neo-async.shape: box
+  neo-async.label: "neo-async"
+  webpack -> schema-utils
+  schema-utils.shape: box
+  schema-utils.label: "schema-utils"
+  webpack -> tapable
+  tapable.shape: box
+  tapable.label: "tapable"
+  webpack -> terser-webpack-plugin
+  terser-webpack-plugin.shape: box
+  terser-webpack-plugin.label: "terser-webpack-plugin"
+  webpack -> watchpack
+  watchpack.shape: box
+  watchpack.label: "watchpack"
+  webpack -> webpack-sources
+  webpack-sources.shape: box
+  webpack-sources.label: "webpack-sources"
+}

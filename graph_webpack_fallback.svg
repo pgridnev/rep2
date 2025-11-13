@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2040" height="600">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#444"/></marker></defs>
+<rect x="940.0" y="20.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1020.0" y="38.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">webpack</text>
+<rect x="-20.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="60.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@types/eslint-scope</text>
+<rect x="60.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="140.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@types/estree</text>
+<rect x="140.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="220.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@types/json-schema</text>
+<rect x="220.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="300.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@webassemblyjs/ast</text>
+<rect x="300.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="380.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@webassemblyjs/wasm-edit</text>
+<rect x="380.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="460.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">@webassemblyjs/wasm-parser</text>
+<rect x="460.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="540.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">acorn</text>
+<rect x="540.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="620.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">acorn-import-phases</text>
+<rect x="620.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="700.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">browserslist</text>
+<rect x="700.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="780.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">chrome-trace-event</text>
+<rect x="780.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="860.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">enhanced-resolve</text>
+<rect x="860.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="940.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">es-module-lexer</text>
+<rect x="940.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1020.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">eslint-scope</text>
+<rect x="1020.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1100.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">events</text>
+<rect x="1100.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1180.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">glob-to-regexp</text>
+<rect x="1180.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1260.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">graceful-fs</text>
+<rect x="1260.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1340.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">json-parse-even-better-errors</text>
+<rect x="1340.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1420.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">loader-runner</text>
+<rect x="1420.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1500.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">mime-types</text>
+<rect x="1500.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1580.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">neo-async</text>
+<rect x="1580.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1660.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">schema-utils</text>
+<rect x="1660.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1740.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">tapable</text>
+<rect x="1740.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1820.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">terser-webpack-plugin</text>
+<rect x="1820.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1900.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">watchpack</text>
+<rect x="1900.0" y="120.0" rx="6" ry="6" width="160" height="36" fill="#ffffff" stroke="#222" />
+<text x="1980.0" y="138.0" font-family="Arial" font-size="12" text-anchor="middle" alignment-baseline="middle" fill="#000">webpack-sources</text>
+<path d="M 1020.0 56.0 L 60.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 140.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 220.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 300.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 380.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 460.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 540.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 620.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 700.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 780.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 860.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 940.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 1020.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 1100.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 1180.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 1260.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 1340.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 1420.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 1500.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 1580.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 1660.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 1740.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 1820.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 1900.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1020.0 56.0 L 1980.0 120.0" stroke="#444" fill="none" marker-end="url(#arrow)"/>
+</svg>

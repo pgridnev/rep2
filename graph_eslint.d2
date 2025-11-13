@@ -1,0 +1,112 @@
+graph "eslint" {
+  eslint.shape: box
+  eslint.label: "eslint"
+  eslint -> @eslint-community/eslint-utils
+  @eslint-community/eslint-utils.shape: box
+  @eslint-community/eslint-utils.label: "@eslint-community/eslint-utils"
+  eslint -> @eslint-community/regexpp
+  @eslint-community/regexpp.shape: box
+  @eslint-community/regexpp.label: "@eslint-community/regexpp"
+  eslint -> @eslint/eslintrc
+  @eslint/eslintrc.shape: box
+  @eslint/eslintrc.label: "@eslint/eslintrc"
+  eslint -> @eslint/js
+  @eslint/js.shape: box
+  @eslint/js.label: "@eslint/js"
+  eslint -> @humanwhocodes/config-array
+  @humanwhocodes/config-array.shape: box
+  @humanwhocodes/config-array.label: "@humanwhocodes/config-array"
+  eslint -> @humanwhocodes/module-importer
+  @humanwhocodes/module-importer.shape: box
+  @humanwhocodes/module-importer.label: "@humanwhocodes/module-importer"
+  eslint -> @humanwhocodes/retry
+  @humanwhocodes/retry.shape: box
+  @humanwhocodes/retry.label: "@humanwhocodes/retry"
+  eslint -> @nodelib/fs.walk
+  @nodelib/fs.walk.shape: box
+  @nodelib/fs.walk.label: "@nodelib/fs.walk"
+  eslint -> ajv
+  ajv.shape: box
+  ajv.label: "ajv"
+  eslint -> chalk
+  chalk.shape: box
+  chalk.label: "chalk"
+  eslint -> cross-spawn
+  cross-spawn.shape: box
+  cross-spawn.label: "cross-spawn"
+  eslint -> debug
+  debug.shape: box
+  debug.label: "debug"
+  eslint -> doctrine
+  doctrine.shape: box
+  doctrine.label: "doctrine"
+  eslint -> escape-string-regexp
+  escape-string-regexp.shape: box
+  escape-string-regexp.label: "escape-string-regexp"
+  eslint -> eslint-scope
+  eslint-scope.shape: box
+  eslint-scope.label: "eslint-scope"
+  eslint -> eslint-visitor-keys
+  eslint-visitor-keys.shape: box
+  eslint-visitor-keys.label: "eslint-visitor-keys"
+  eslint -> espree
+  espree.shape: box
+  espree.label: "espree"
+  eslint -> esquery
+  esquery.shape: box
+  esquery.label: "esquery"
+  eslint -> esutils
+  esutils.shape: box
+  esutils.label: "esutils"
+  eslint -> fast-deep-equal
+  fast-deep-equal.shape: box
+  fast-deep-equal.label: "fast-deep-equal"
+  eslint -> file-entry-cache
+  file-entry-cache.shape: box
+  file-entry-cache.label: "file-entry-cache"
+  eslint -> find-up
+  find-up.shape: box
+  find-up.label: "find-up"
+  eslint -> glob-parent
+  glob-parent.shape: box
+  glob-parent.label: "glob-parent"
+  eslint -> graphemer
+  graphemer.shape: box
+  graphemer.label: "graphemer"
+  eslint -> ignore
+  ignore.shape: box
+  ignore.label: "ignore"
+  eslint -> imurmurhash
+  imurmurhash.shape: box
+  imurmurhash.label: "imurmurhash"
+  eslint -> is-glob
+  is-glob.shape: box
+  is-glob.label: "is-glob"
+  eslint -> js-yaml
+  js-yaml.shape: box
+  js-yaml.label: "js-yaml"
+  eslint -> json-stable-stringify-without-jsonify
+  json-stable-stringify-without-jsonify.shape: box
+  json-stable-stringify-without-jsonify.label: "json-stable-stringify-without-jsonify"
+  eslint -> levn
+  levn.shape: box
+  levn.label: "levn"
+  eslint -> lodash.merge
+  lodash.merge.shape: box
+  lodash.merge.label: "lodash.merge"
+  eslint -> minimatch
+  minimatch.shape: box
+  minimatch.label: "minimatch"
+  eslint -> natural-compare
+  natural-compare.shape: box
+  natural-compare.label: "natural-compare"
+  eslint -> optionator
+  optionator.shape: box
+  optionator.label: "optionator"
+  eslint -> strip-ansi
+  strip-ansi.shape: box
+  strip-ansi.label: "strip-ansi"
+  eslint -> text-table
+  text-table.shape: box
+  text-table.label: "text-table"
+}
